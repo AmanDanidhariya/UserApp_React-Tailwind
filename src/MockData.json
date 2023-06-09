@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "fullName": "Lois Lane",
+    "email": "Lois@gmail.com",
+    "Dob": 27041974,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 2,
+    "fullName": "Clark Kent",
+    "email": "Clark@gmail.com",
+    "Dob": 27041945,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 3,
+    "fullName": "Ralph Kramden",
+    "email": "Ralph@gmail.com",
+    "Dob": 27041998,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 4,
+    "fullName": "Holly Golightly",
+    "email": "Holly@gmail.com",
+    "Dob": 27041998,
+    "gender": "female",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 5,
+    "fullName": "Liza Doolittle",
+    "email": "Liza@gmail.com",
+    "Dob": 27041998,
+    "gender": "female",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 6,
+    "fullName": "Henry Higgins",
+    "email": "Henry@gmail.com",
+    "Dob": 27041998,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 7,
+    "fullName": "Joseph Arimathea",
+    "email": "avi@gmail.com",
+    "Dob": 27041998,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 8,
+    "fullName": "Mary Magdalene",
+    "email": "Mary@gmail.com",
+    "Dob": 27041998,
+    "gender": "female",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 9,
+    "fullName": "Emma Grate",
+    "email": "Emma@gmail.com",
+    "Dob": 27041998,
+    "gender": "female",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 10,
+    "fullName": "Pat Thettick",
+    "email": "Pat@gmail.com",
+    "Dob": 27041998,
+    "gender": "male",
+    "country": "india",
+    "city": "rajkot",
+    "postal": 360002,
+    "ph": 12345677980
+  },
+  {
+    "id": 11,
+    "fullName": "Col Fays",
+    "email": "Col@gmail.com",
+    "Dob": 27041998,
+    "gender": "female",
+    "country": "india",
+    "city": "mumbai",
+    "postal": 360002,
+    "ph": 1234567980
+  }
+]

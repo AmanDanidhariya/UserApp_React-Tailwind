@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "fullName": "Lois Lane",
+  "email": "Lois@gmail.com",
+  "Dob": 27041974,
+  "gender": "male",
+  "password": "Lois123",
+  "country": "India",
+  "city": "rajkot",
+  "postal": 360002,
+  "ph": 12345677980
+}

@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Lois@gmail.com",
+      "password": "Lois123"
+    },
+    {
+      "id": 2,
+      "email": "Clark@gmail.com",
+      "password": "clerk123"
+    },
+    {
+      "id": 3,
+      "email": "Ralph@gmail.com",
+      "password": "Ralph123"
+    },
+    {
+      "id": 4,
+      "email": "Holly@gmail.com",
+      "password": "Holly123"
+    },
+    {
+      "id": 5,
+      "email": "Liza@gmail.com",
+      "password": "Liza123"
+    },
+    {
+      "id": 6,
+      "email": "Henry@gmail.com",
+      "password": "Henry123"
+    },
+    {
+      "id": 7,
+      "email": "Joseph@gmail.com",
+      "password": "Joseph123"
+    },
+    {
+      "id": 8,
+      "email": "Mary@gmail.com",
+      "password": "Mary123"
+    },
+    {
+      "id": 9,
+      "email": "Emma@gmail.com",
+      "password": "Emma123"
+    },
+    {
+      "id": 10,
+      "email": "Pat@gmail.com",
+      "password": "Pat123"
+    },
+    {
+      "id": 11,
+      "email": "Col@gmail.com",
+      "password": "Col123"
+    }
+  ]
+}
